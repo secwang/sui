@@ -1,9 +1,9 @@
 {
     "apps" : [
-        {"name":"opengrok","url":"opengrok.cbeff.com","icon":"mdi-code-json"},
-        {"name":"miniflux","url":"miniflux.cbeff.com","icon":"rss"},
-        {"name":"wallabag","url":"wallabag.cbeff.com","icon":"rss"},
-        {"name":"webdav","url":"webdav.cbeff.com","icon":"rss"},
-        {"name":"pinboard.in","url":"pinboard.in","icon":"mdi-pin-outline"}
+        {"name":"opengrok","url":"opengrok.cbeff.com","icon":""},
+        {"name":"miniflux","url":"miniflux.cbeff.com","icon":""},
+        {"name":"wallabag","url":"wallabag.cbeff.com","icon":""},
+        {"name":"webdav","url":"webdav.cbeff.com","icon":""},
+        {"name":"pinboard.in","url":"pinboard.in","icon":""}
     ]
 }
