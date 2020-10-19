@@ -51,7 +51,7 @@
                 "category": "online bussiness",
                 "links": [
                   {
-                    "name": "twitter",
+                    "name": "flippa",
                     "url": "https://flippa.com/search?search_template=most_relevant&filter%5Bsale_method%5D=auction,classified&filter%5Bstatus%5D=open&filter%5Bproperty_type%5D=website,established_website,starter_site&filter%5Bsitetype%5D=directory"
                   }
                 ]
