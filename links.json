@@ -4,16 +4,20 @@
                 "category": "Communicate",
                 "links": [
                   {
-                    "name": "Discord",
-                    "url": "https://discordapp.com/"
-                  },
-                  {
                     "name": "Gmail",
                     "url": "http://gmail.com"
+                  }
+                ]
+              },{
+                "category": "trading",
+                "links": [
+                  {
+                    "name": "ftx",
+                    "url": "https://ftx.com"
                   },
                   {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin"
+                    "name": "tradingview",
+                    "url": "https://tradingview.com"
                   }
                 ]
               },
@@ -21,84 +25,12 @@
                 "category": "Cloud",
                 "links": [
                   {
-                    "name": "Box",
-                    "url": "https://box.net"
+                    "name": "aws lightsail",
+                    "url": "https://lightsail.aws.amazon.com/ls/webapp/home"
                   },
                   {
-                    "name": "Dropbox",
-                    "url": "https://dropbox.com"
-                  },
-                  {
-                    "name": "Drive",
-                    "url": "https://drive.google.com"
-                  }
-                ]
-              },
-              {
-                "category": "Design",
-                "links": [
-                  {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
-                  },
-                  {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
-                  },
-                  {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
-                  }
-                ]
-              },
-              {
-                "category": "Dev",
-                "links": [
-                  {
-                    "name": "Codepen",
-                    "url": "https://codepen.io/"
-                  },
-                  {
-                    "name": "Devdocs",
-                    "url": "https://devdocs.io"
-                  },
-                  {
-                    "name": "Devhints",
-                    "url": "https://devhints.io"
-                  }
-                ]
-              },
-              {
-                "category": "Lifestyle",
-                "links": [
-                  {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
-                  },
-                  {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
-                  },
-                  {
-                    "name": "Freshome",
-                    "url": "https://freshome.com/"
-                  }
-                ]
-              },
-              {
-                "category": "Media",
-                "links": [
-                  {
-                    "name": "Spotify",
-                    "url": "http://browse.spotify.com"
-                  },
-                  {
-                    "name": "Trakt",
-                    "url": "http://trakt.tv"
-                  },
-                  {
-                    "name": "YouTube",
-                    "url": "http://youtube.com/subscriptions"
+                    "name": "route53",
+                    "url": "https://console.aws.amazon.com/route53/home?region=us-east-1#"
                   }
                 ]
               },
@@ -106,35 +38,24 @@
                 "category": "Reading",
                 "links": [
                   {
-                    "name": "Instapaper",
-                    "url": "https://www.instapaper.com/u"
+                    "name": "twitter",
+                    "url": "https://www.twitter.com/u"
                   },
                   {
-                    "name": "Medium",
-                    "url": "http://medium.com"
-                  },
-                  {
-                    "name": "Reddit",
-                    "url": "http://reddit.com"
+                    "name": "pinboard.in",
+                    "url": "http://pinboard.in"
                   }
                 ]
               },
               {
-                "category": "Tech",
+                "category": "online bussiness",
                 "links": [
                   {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
-                  },
-                  {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
-                  },
-                  {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
+                    "name": "twitter",
+                    "url": "https://flippa.com/search?search_template=most_relevant&filter%5Bsale_method%5D=auction,classified&filter%5Bstatus%5D=open&filter%5Bproperty_type%5D=website,established_website,starter_site&filter%5Bsitetype%5D=directory"
                   }
                 ]
               }
+              
             ]
         }
