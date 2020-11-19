@@ -4,6 +4,7 @@
         {"name":"miniflux","url":"miniflux.cbeff.com","icon":""},
         {"name":"wallabag","url":"wallabag.cbeff.com","icon":""},
         {"name":"webdav","url":"webdav.cbeff.com","icon":""},
+        {"name":"bitwarden","url":"bitwarden.cbeff.com","icon":""},
         {"name":"pinboard.in","url":"pinboard.in","icon":""}
     ]
 }
